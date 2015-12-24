@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\ClassLibrary.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\ClassLibrary.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.login.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.userregister.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.menu.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.sellform.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.managemenu.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FilmForm.resources
