@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
